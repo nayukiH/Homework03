@@ -19,6 +19,6 @@ https://channel9.msdn.com/Series/Windows-10-development-for-absolute-beginners/U
 
 ## 成果：
 
-![](C:\Users\nayuk\Pictures\工作\c#\tipcal\说明1.JPG)
+![](说明1.JPG)
 
-![说明2](C:\Users\nayuk\Pictures\工作\c#\tipcal\说明2.JPG)
+![说明2](说明2.JPG)
