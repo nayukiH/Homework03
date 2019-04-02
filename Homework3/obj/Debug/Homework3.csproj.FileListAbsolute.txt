@@ -1,0 +1,15 @@
+D:\Nayuki-conversation\Homework3\Homework3\bin\Debug\Homework3.exe.config
+D:\Nayuki-conversation\Homework3\Homework3\bin\Debug\Homework3.exe
+D:\Nayuki-conversation\Homework3\Homework3\bin\Debug\Homework3.pdb
+D:\Nayuki-conversation\Homework3\Homework3\obj\Debug\Homework3.csprojAssemblyReference.cache
+D:\Nayuki-conversation\Homework3\Homework3\obj\Debug\MainWindow.g.cs
+D:\Nayuki-conversation\Homework3\Homework3\obj\Debug\App.g.cs
+D:\Nayuki-conversation\Homework3\Homework3\obj\Debug\Homework3_MarkupCompile.cache
+D:\Nayuki-conversation\Homework3\Homework3\obj\Debug\Homework3_MarkupCompile.lref
+D:\Nayuki-conversation\Homework3\Homework3\obj\Debug\MainWindow.baml
+D:\Nayuki-conversation\Homework3\Homework3\obj\Debug\Homework3.g.resources
+D:\Nayuki-conversation\Homework3\Homework3\obj\Debug\Homework3.Properties.Resources.resources
+D:\Nayuki-conversation\Homework3\Homework3\obj\Debug\Homework3.csproj.GenerateResource.cache
+D:\Nayuki-conversation\Homework3\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+D:\Nayuki-conversation\Homework3\Homework3\obj\Debug\Homework3.exe
+D:\Nayuki-conversation\Homework3\Homework3\obj\Debug\Homework3.pdb
