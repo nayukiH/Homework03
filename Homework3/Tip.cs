@@ -25,7 +25,7 @@ namespace Homework3
             double tipAmount = 0.00;
             double totalAmount = 0.00;
 
-            if(double.TryParse(originalAmount.Replace('$',' '),out billAmount))
+            if(double.TryParse(originalAmount.Replace('￥',' '),out billAmount))
             {
                 tipAmount = billAmount * tipPercentage;
                 totalAmount = billAmount + tipAmount;
