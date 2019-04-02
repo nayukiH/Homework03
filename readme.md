@@ -21,4 +21,4 @@ https://channel9.msdn.com/Series/Windows-10-development-for-absolute-beginners/U
 
 ![](Homework3/说明2.JPG)
 
-![说明2](Homework3/说明1.JPG)
+![](Homework3/说明1.JPG)
