@@ -35,7 +35,7 @@ namespace Homework3
 
         private void Amount_GotFocus(object sender, RoutedEventArgs e)
         {
-            Amount.Text = "$";
+            Amount.Text = "￥";
         }
 
         private void Amount_TextChanged(object sender, TextChangedEventArgs e)
